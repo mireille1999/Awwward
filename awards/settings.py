@@ -45,7 +45,7 @@ INSTALLED_APPS = [
     'tinymce',
     'rest_framework',
     'rest_framework.authtoken',
-    'registration',
+    
 ]
 
 MIDDLEWARE = [
