@@ -1,8 +1,8 @@
 ## PROJECT  NAME 
  - Awwward
-![app](https://raw.githubusercontent.com/mireille1999/Instagram/main/blog/static/blog/img/Screenshot%20from%202021-04-19%2015-58-17.png)
-![app](https://raw.githubusercontent.com/mireille1999/Instagram/main/blog/static/blog/img/Screenshot%20from%202021-04-19%2023-06-26.png)
-![app](https://raw.githubusercontent.com/mireille1999/Instagram/main/blog/static/blog/img/Screenshot%20from%202021-04-19%2015-58-00.png)
+![app](https://raw.githubusercontent.com/mireille1999/Awwward/main/media/2.png)
+![app](https://raw.githubusercontent.com/mireille1999/Awwward/main/media/3.png)
+![app](https://raw.githubusercontent.com/mireille1999/Awwward/main/media/1.png)
 
 ## AUTHOR 
  - MIREILLE MUHAWENIMANA
