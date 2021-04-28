@@ -8,7 +8,7 @@
  - MIREILLE MUHAWENIMANA
 
  ## DESCRIPTION 
- - This is an application was generated using python version 3.6.and the Django framework. This project allows people to submit their websites and have them reviewed based on design,usability and content.
+ - Awwward is a website which allows people to submit their websites and have them reviewed based on design,usability and content.
 
 
 
