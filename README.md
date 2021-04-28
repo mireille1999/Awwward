@@ -79,7 +79,7 @@ After extracting the files,
 ## Live link 
 **You can view the project through this link**
 
-
+https://miniinstagrammimi.herokuapp.com/account/login/?next=/
 
 ## License 
 * MIT 
